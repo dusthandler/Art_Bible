@@ -25,8 +25,9 @@ Basically it contains a list of the important points necessary to keep in mind w
 #### Who is the target?
 #### What does an investor need to know to get an idea of the direction art takes?
 #### How can I make all artists understand art so that they work in the same style?
+#### Will it be used?
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/questions.PNG?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/Images/thinking.gif)
 
 A good question to generate the Art Bible is "What should each member of my team know to contribute to the project?" You can start writing the Art Bible and generate a 25 - 30 page document with a lot of information in which you will have dedicated a lot of time but your team will not be really using the content. It is better to spend some time thinking about what is really what you need to know.
 
