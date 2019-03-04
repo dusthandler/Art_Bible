@@ -73,9 +73,6 @@ Let's put the following situation: We have 6 months of production and a new art 
 
 The artible is also important when looking for financing. A publisher or investor can get an idea of what the game will look like. If he sees in which way the art that is proposed goes, he can finish deciding whether to invest or not.
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/tdd-and-gdd-1.png?raw=true)
-
-
 ## Commonly defined in Art Bibles with professional examples:
 
 #### Art Style
@@ -137,4 +134,5 @@ The artible is also important when looking for financing. A publisher or investo
 
 [Art’s Style Challenge](https://memed.co.uk/2018/01/29/this-challenge-asks-artists-to-reimagine-their-art-in-different-cartoon-styles/2/)
 
+## My slides
 [Kevin Muñoz ppt](https://docs.google.com/presentation/d/1yCIcvr_T4QmOAvMql5luIlbPJeTFjIyy4G-6uug-z8A/edit?usp=sharing)
