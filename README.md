@@ -1,6 +1,6 @@
 # Art_Bible
 
-# Game-Pillars
+# Art Bible
 
 “I am [Kevin Muñoz](https://www.linkedin.com/in/kevin-manel-mu%C3%B1oz-oliver-24233360/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
@@ -10,29 +10,29 @@
 
 Also called "Style Guide" is a document that contains the color schemes, the style, the interface, the process of creating the assets ... In short, a document that explains the visuals and how they will be produced.
 
+The document usually begins with an introduction page where in a paragraph you summarize what is going to be explained in the rest of the pages. You will talk about the style of art, the proportion of characters, the scenarios ...
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/art%20bible.PNG?raw=true)
-.[Source](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
+[Image Source](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
+
+Basically it contains a list of the important points necessary to keep in mind when you are creating the art of the game in order to be consistent throughout the production. It has to contain the differentiating aspects of the game if it has them. For example: heads twice as big as normal or a low poly stage with lots of lighting, trees made with basic shapes ... You want artists to understand the complete direction of the visual.
+
+![](https://github.com/dusthandler/Art_Bible/blob/master/Images/wait.PNG?raw=true)
+
+### What must be considered
+
+#### What does a new member need to know in the team to contribute to the project?
+#### Who is the target?
+#### What does an investor need to know to get an idea of the direction art takes?
+#### How can I make all artists understand art so that they work in the same style?
+
+![](https://github.com/dusthandler/Art_Bible/blob/master/Images/questions.PNG?raw=true)
+
+A good question to generate the Art Bible is "What should each member of my team know to contribute to the project?" You can start writing the Art Bible and generate a 25 - 30 page document with a lot of information in which you will have dedicated a lot of time but your team will not be really using the content. It is better to spend some time thinking about what is really what you need to know.
+
+You have to think about who is going to read the document. It may only be focused on junior artists and you have to think about your level of understanding, perhaps it is convenient to explain through very explicit images, while for another target with putting a text naming a reference could be enough. It is also important to take into account the language, you can work with people from many countries and not all have the same understanding of the language, so you should use an easily understandable language or explain with references.
 
 
-
-### “What is the game?”
-
-This is one the most frequent question that you and your team will consider during the beginning of video game creation.
-There is more than one way to  answer this question but one of the most important aspect to look for is the __Game Pillars__.
-
-The foundations of a games are known as __game pillars__ also knwon as basis of the game.
-
-Sometimes people thinks that __game pillars__ and concepts like __Unique Selling Points__ are the same, but they are not.
-
-__Game basis__ (Game Design Pillars) are the first concepts every videogame need. In general, there are an average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
-
-Every company, developer or game has a different set of game pillars, depending of what concepts they want to base their game. All the projects start with a set of concepts, game pillars, in which everyone in the developing group will __agree, support and design around__, in order to develop the game together as a team with the same objective.
-
-
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/puzzle.png?raw=true)
-
-It should also be clear that your game pillars must be __"your first and last stop for the game design decisions".__
 
 
 # Which Game Pillars were defined in professional games ?
