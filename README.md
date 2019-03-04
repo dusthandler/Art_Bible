@@ -12,7 +12,7 @@ Also called "Style Guide" is a document that contains the color schemes, the sty
 
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/art%20bible.PNG?raw=true)
-![Source](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
+.[Source](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
 
 
 
