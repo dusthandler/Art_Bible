@@ -10,12 +10,12 @@ Also called "Style Guide" is a document that contains the color schemes, the sty
 
 The document usually begins with an introduction page where in a paragraph you summarize what is going to be explained in the rest of the pages. You will talk about the style of art, the proportion of characters, the scenarios ...
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/art%20bible.PNG?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/art%20bible.PNG?raw=true)
 [Image Source](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
 
 Basically it contains a list of the important points necessary to keep in mind when you are creating the art of the game in order to be consistent throughout the production. It has to contain the differentiating aspects of the game if it has them. For example: heads twice as big as normal or a low poly stage with lots of lighting, trees made with basic shapes ... You want artists to understand the complete direction of the visual.
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/wait.PNG?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/wait.PNG?raw=true)
 
 ## What is it for
 
@@ -34,7 +34,7 @@ Basically it contains a list of the important points necessary to keep in mind w
 #### How can I make all artists understand art so that they work in the same style?
 #### Will it be used?
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/thinking.gif)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/thinking.gif)
 
 A good question to generate the Art Bible is "What should each member of my team know to contribute to the project?" You can start writing the Art Bible and generate a 25 - 30 page document with a lot of information in which you will have dedicated a lot of time but your team will not be really using the content. It is better to spend some time thinking about what is really what you need to know.
 
@@ -45,7 +45,7 @@ You have to think about who is going to read the document. It may only be focuse
 
 Normally this document is generated shortly after the GDD and before starting the production of assets.
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/drawing.gif?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/drawing.gif?raw=true)
 
 It is important to do it before starting the production of assets because we will save unnecessary assets, wasted effort and we will gain synchronization of the team in the development of assets. What supposes a more comfortable and fluid work and above all reduction of costs.
 
@@ -53,7 +53,7 @@ It is important to do it before starting the production of assets because we wil
 
 The Art Bible is usually created by the studio's art director, who has more experience thinking about geometry, art that works, new styles that can work ... and therefore clearly understands how the game is supposed to be visually.
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/drawer.gif?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/drawer.gif?raw=true)
 
 Many times you may not have someone specialized in art that takes care of the Art Bible. In small Indie studies that are starting, for example you that you can meet a few programmers, how can you solve this? You are ambitious, you want to do a good job and you plan to hire an artist during the production, but you want to show him how you want your game to be visually and you need an artible. In this case you can make an artible with concept art, photographs, diagrams ...
 
@@ -83,7 +83,7 @@ Architecture and objects proportions?
 At what time?
 What style of graphics? outline? flat style? sleeve?
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Art%20style.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Art%20style.png?raw=true)
 
 #### Character Art
 
@@ -92,7 +92,7 @@ A basic structure from which the rest of the characters can start working on it.
 There may be different for adults, children ... But they must maintain a relationship so that everything looks like the same world
 The template does not have to be as literal as this one, rather we look for the rules that will be followed so that the characters have cohesion.
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Character%20Art.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Character%20Art.png?raw=true)
 
 #### Level of Detail
 
@@ -103,14 +103,14 @@ if we use technology to add or remove detail
 In Pokemon the detail of the landscape is what you need. Simple and colorful
 In games like Tomb raider The level of detail decreases as you move away to avoid memory overload
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Level%20of%20Detail%20Page.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Level%20of%20Detail%20Page.png?raw=true)
 
 #### Camera
 
 In a narrative or strategy environment a static camera can help to accompany the story while in an action game the camera animations improve the immersion.
 We will decide: Position of the camera, Where is the horizon, Transitions, Effects, Camera changes in narrative ...
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Camera%20Page.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Camera%20Page.png?raw=true)
 
 #### Color Palette
 
@@ -120,14 +120,14 @@ For this it is convenient to work on a color palette.
 
 There are several websites to generate very good color palettes.
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Color%20Palette.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Color%20Palette.png?raw=true)
 
 #### Atmosphere / Environment
 
 To define an atmosphere you have to be very clear on sunny days, such as the rains, how the nights are or if it is always daytime.
 It's summer? it is winter?
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Atmosphere.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Atmosphere.png?raw=true)
 
 #### User Interface
 
@@ -136,7 +136,7 @@ Hardcore WOW players will be used to saturated interfaces, but new players will 
 It is convenient to use the UI with knowledge and with an aspect that enhances immersion.
 At this point we will look for references or sketch possible aspects of the UI, such as menus, buttons, texts ...
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/UI.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/UI.png?raw=true)
 
 #### Technical Guidelines
 
@@ -146,7 +146,7 @@ What programs will be used
 What nomenclature will be used
 It is important to follow the nomenclature
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Technical%20Guidelines.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/Technical%20Guidelines.png?raw=true)
 
 #### References
 
@@ -158,7 +158,7 @@ sketches, photographs, comics ... for any particular idea
 
 And you can also generate a table of references where they appear a summary of the whole
 
-![](https://github.com/dusthandler/Art_Bible/blob/master/Images/References.png?raw=true)
+![](https://github.com/dusthandler/Art_Bible/blob/master/docs/References.png?raw=true)
 
 
 
