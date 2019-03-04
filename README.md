@@ -77,37 +77,86 @@ The artible is also important when looking for financing. A publisher or investo
 
 #### Art Style
 
+Is it going to be a world of pirates with cartoon aesthetics or a world outside our fantasy world with realistic aesthetics?
+What proportions will the characters have?
+Architecture and objects proportions?
+At what time?
+What style of graphics? outline? flat style? sleeve?
+
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Art%20style.png?raw=true)
 
 #### Character Art
+
+What we are looking for is to create a "template"
+A basic structure from which the rest of the characters can start working on it.
+There may be different for adults, children ... But they must maintain a relationship so that everything looks like the same world
+The template does not have to be as literal as this one, rather we look for the rules that will be followed so that the characters have cohesion.
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Character%20Art.png?raw=true)
 
 #### Level of Detail
 
+It is clear what is the level of detail
+But here, in addition to deciding the level of detail, we must decide WHAT will have detail and what will not (architecture, characters)
+We also decide if they will have detail always or only in cinematic
+if we use technology to add or remove detail
+In Pokemon the detail of the landscape is what you need. Simple and colorful
+In games like Tomb raider The level of detail decreases as you move away to avoid memory overload
+
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Level%20of%20Detail%20Page.png?raw=true)
 
 #### Camera
+
+In a narrative or strategy environment a static camera can help to accompany the story while in an action game the camera animations improve the immersion.
+We will decide: Position of the camera, Where is the horizon, Transitions, Effects, Camera changes in narrative ...
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Camera%20Page.png?raw=true)
 
 #### Color Palette
 
+In addition to the color combinations are colorful, animated, realistic ... it is important that all colors maintain a relationship between them.
+
+For this it is convenient to work on a color palette.
+
+There are several websites to generate very good color palettes.
+
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Color%20Palette.png?raw=true)
 
 #### Atmosphere / Environment
+
+To define an atmosphere you have to be very clear on sunny days, such as the rains, how the nights are or if it is always daytime.
+It's summer? it is winter?
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Atmosphere.png?raw=true)
 
 #### User Interface
 
+You have to find a UI that is understandable to the user without saturating it.
+Hardcore WOW players will be used to saturated interfaces, but new players will not know where to start looking.
+It is convenient to use the UI with knowledge and with an aspect that enhances immersion.
+At this point we will look for references or sketch possible aspects of the UI, such as menus, buttons, texts ...
+
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/UI.png?raw=true)
 
 #### Technical Guidelines
 
+Here the work methodology is decided.
+How the images will be exported, in what format, in what composition
+What programs will be used
+What nomenclature will be used
+It is important to follow the nomenclature
+
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/Technical%20Guidelines.png?raw=true)
 
 #### References
+
+In addition to all the references you have added in each point, you can put a final point of references where you see a general idea of everything.
+
+Here you can also discuss topics such as what the ads will look like if they appear in-game
+
+sketches, photographs, comics ... for any particular idea
+
+And you can also generate a table of references where they appear a summary of the whole
 
 ![](https://github.com/dusthandler/Art_Bible/blob/master/Images/References.png?raw=true)
 
